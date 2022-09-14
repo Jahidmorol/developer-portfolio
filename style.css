@@ -10,6 +10,7 @@ h1{
 }
 section{
     display: flex;
+    margin-bottom: 120px;
 }
 .width-half{
     width: 50%;
@@ -28,7 +29,7 @@ section{
     border-radius: 5%;
 }
 .top-banner{
-    background-image: url(/top-backround.jpg);
+    background-image: url(/top-banner.jpg);
     background-size: 100%;
     padding-top: 17px;
     background-repeat: no-repeat;
